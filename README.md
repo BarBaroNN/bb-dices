@@ -1,4 +1,4 @@
-<h1>bb-queue - Dices & RPS Minigames.</h1>
+<h1>bb-dices - Dices & RPS Minigames.</h1>
 <h3>Features:</h4>
 <ul><li>Roll the dice minigame.</li>
 <li>RPS minigame.</li>
