@@ -1,3 +1,5 @@
+<h3>PhilsBadMan 02/01/2021: Added up to 5 dice roll</h3>
+
 <h1>bb-dices - Dices & RPS Minigames.</h1>
 <h3>Features:</h4>
 <ul><li>Roll the dice minigame.</li>
