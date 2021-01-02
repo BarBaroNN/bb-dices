@@ -3,7 +3,7 @@ RegisterCommand('dice', function(source, args, rawCommand)
 
 	local dices, c = tonumber(args[1]), 1
 	if dices then
-		if dices > 3 then
+		if dices > 5 then
 			TriggerClientEvent('notification', source, 'You can choose a number between 1 and 3 only', 2)
 			return
 		end

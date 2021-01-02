@@ -23,6 +23,10 @@ Citizen.CreateThread(function()
                                     html = html .. "<span style=\"position: absolute; padding-left: 150px; left: ".. xxx * 72 .."%;top: ".. yyy * 100 .."%;\">"
                                 elseif #v.num == 3 then
                                     html = html .. "<span style=\"position: absolute; padding-left: 150px; left: ".. xxx * 66 .."%;top: ".. yyy * 100 .."%;\">"
+				elseif #v.num == 4 then
+                                    html = html .. "<span style=\"position: absolute; padding-left: 150px; left: ".. xxx * 60 .."%;top: ".. yyy * 100 .."%;\">"
+                                elseif #v.num == 5 then
+                                    html = html .. "<span style=\"position: absolute; padding-left: 150px; left: ".. xxx * 54 .."%;top: ".. yyy * 100 .."%;\">"
                                 end
                                 for a, b in pairs(v.num) do
                                     html = html .. "<img \" width=\"75px\" height=\"75px\" src=\"dice_".. b.dicenum ..".png\">"

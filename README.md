@@ -14,3 +14,5 @@
 <p><strong><a title="GITHUB" href="https://github.com/BarBaroNN/bb-queue" target="_blank" rel="noopener">GITHUB</a></strong></p>
 <p><strong>Developed by barbaronn<br />Special thanks to daRealSenor</strong></p>
 <h2>Have FUN!</h2>
+
+<h4>PhilsBadMan 2nd Jan 2021: Added up to 5 dice roll</h4>
