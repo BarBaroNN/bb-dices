@@ -15,4 +15,4 @@
 <p><strong>Developed by barbaronn<br />Special thanks to daRealSenor</strong></p>
 <h2>Have FUN!</h2>
 
-<h4>PhilsBadMan 02/01/2021: Added up to 5 dice roll</h4>
+<h4>PhilsBadMan 2nd Jan 2021: Added up to 5 dice roll</h4>
