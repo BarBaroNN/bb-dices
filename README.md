@@ -1,5 +1,3 @@
-<h3>PhilsBadMan 02/01/2021: Added up to 5 dice roll</h3>
-
 <h1>bb-dices - Dices & RPS Minigames.</h1>
 <h3>Features:</h4>
 <ul><li>Roll the dice minigame.</li>
@@ -16,3 +14,5 @@
 <p><strong><a title="GITHUB" href="https://github.com/BarBaroNN/bb-queue" target="_blank" rel="noopener">GITHUB</a></strong></p>
 <p><strong>Developed by barbaronn<br />Special thanks to daRealSenor</strong></p>
 <h2>Have FUN!</h2>
+
+<h4>PhilsBadMan 02/01/2021: Added up to 5 dice roll</h4>
